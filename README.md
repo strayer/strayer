@@ -5,7 +5,7 @@ Welcome to my Github profile! I love working on code and infrastructure. Shoot m
 ### How to reach me
 
 - 📧: sven@grunewaldt.de
-- Matrix: Soon to come? 🤔
+- Matrix: `@strayer:gru.earth`
 
 ### Business contact
 
