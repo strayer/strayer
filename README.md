@@ -7,6 +7,12 @@ Welcome to my Github profile! I love working on code and infrastructure. Shoot m
 - 📧: sven@grunewaldt.de
 - Matrix: Soon to come? 🤔
 
+### Business contact
+
+I work as a Senior Solution Architect at Westfalen AG (westfalen.com). Feel free to reach out for business related inquiries:
+
+- 🏢: s.grunewaldt@westfalen.com
+
 ### I built a keyboard!
 
 I recently built a keyboard, the [Taira](https://github.com/strayer/taira-keyboard). It is a wireless low-profile split mechanical keyboard with 66 keys inspired by the ErgoDash and Corne Chocolate. Feel free to check it out, its really great to type on!
