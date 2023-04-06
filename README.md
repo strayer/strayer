@@ -9,7 +9,7 @@ Welcome to my Github profile! I love working on code and infrastructure. Shoot m
 
 ### Business contact
 
-I work as a Senior Solution Architect at Westfalen AG ([westfalen.com](https://westfalen.com)). Feel free to reach out for business related inquiries:
+I work as a Senior Solution Architect at Westfalen AG ([@westfalen-group](https://github.com/westfalen-group), [westfalen.com](https://westfalen.com)). Feel free to reach out for business related inquiries:
 
 - 🏢: s.grunewaldt@westfalen.com
 
